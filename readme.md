@@ -2,11 +2,11 @@
 
 a lovely web template for couples who want to share their feelings with their special person.
 
-live at: https://proposeme.onrender.com
+live at: https://propose-me1.netlify.app/
 
 ## How to use it?
 
-first, go to this [link](https://proposeme.onrender.com) and follow the instructions.
+first, go to this [link](https://propose-me1.netlify.app/) and follow the instructions.
 
 - enter your valentine's name in the input field and click the propose now button
 - a popup will appear with a proposal link. just copy the link and share the link with your valentine
